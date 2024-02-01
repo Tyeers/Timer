@@ -1,0 +1,17 @@
+D:\Kelas XI\PBT\AppTimer\bin\Debug\net6.0-windows\AppTimer.exe
+D:\Kelas XI\PBT\AppTimer\bin\Debug\net6.0-windows\AppTimer.deps.json
+D:\Kelas XI\PBT\AppTimer\bin\Debug\net6.0-windows\AppTimer.runtimeconfig.json
+D:\Kelas XI\PBT\AppTimer\bin\Debug\net6.0-windows\AppTimer.dll
+D:\Kelas XI\PBT\AppTimer\bin\Debug\net6.0-windows\AppTimer.pdb
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\AppTimer.csproj.AssemblyReference.cache
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\AppTimer.csproj.GenerateResource.cache
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\AppTimer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\AppTimer.AssemblyInfoInputs.cache
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\AppTimer.AssemblyInfo.cs
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\AppTimer.csproj.CoreCompileInputs.cache
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\AppTimer.dll
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\refint\AppTimer.dll
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\AppTimer.pdb
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\AppTimer.genruntimeconfig.cache
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\ref\AppTimer.dll
+D:\Kelas XI\PBT\AppTimer\obj\Debug\net6.0-windows\AppTimer.Form1.resources
